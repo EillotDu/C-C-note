@@ -1,1 +1,1 @@
-# C-C-note
+# C/C++ note of learning
